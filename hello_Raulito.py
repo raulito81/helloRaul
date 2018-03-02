@@ -1,4 +1,4 @@
-import helloRaulito.main
+import main
 
 if __name__ == '__main__':
-    helloRaulito.main.main()
+    main.main()
